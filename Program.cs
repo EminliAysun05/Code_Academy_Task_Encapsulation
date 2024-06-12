@@ -68,7 +68,7 @@
                 }
 
                 else if(choice == 0) {
-                    Console.WriteLine("Program termianted");
+                    Console.WriteLine("Program termianted...");
                     program = true;
                 }
                 else
